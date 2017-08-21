@@ -4,6 +4,8 @@ A image recognition service to check if your photo are casual or not.
 
 Made with [Clarifai](https://clarifai.com/) and React.
 
+👉 [LIVE DEMO](http://casual-or-corporate.surge.sh) 👈
+
 ## To-do
 - [ ] Use webcam as an alternative source
 - [ ] Check if it is an image of a human
